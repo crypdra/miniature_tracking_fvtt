@@ -1,0 +1,12 @@
+{
+    "name": "MiniatureTracking",
+    "title": "An FVTT Module to work with miniature_tracking",
+    "description": "This FVTT Module analyses the data sent by miniature_tracking and moves token accordingly.",
+    "author": "Florian Seiler",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    "scripts": [
+        "scripts/tracking.js"
+    ],
+    "socket": true
+}
